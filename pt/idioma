@@ -1,18 +1,18 @@
-ADM-MANAGER-Ultimate
+ADM-MANAGER-ULTIMATE
 EM LINHA:
-FALECIDO:
+EXPIRADO:
 SEU SISTEMA:
 BEM-VINDO AO MENU!
 GERENCIAR USUÁRIOS
-GERENCIAR FERRAMENTAS
+FERRAMENTAS
 UPDATE
 REMOVER ADM-ULTIMATE
 OPÇÃO:
-[ACTIVE]
+[ON]
 [DISABLED]
 MUDAR AS CORES DO SCRIPT
 [BACK / EXIT]
-USUÁRIOS DO GERENTE
+MENU DO USUÁRIO
 CRIAR USUÁRIOS
 REMOVER USUÁRIOS
 MODIFICAR USUÁRIOS
@@ -29,20 +29,20 @@ CRIADOR DE USUÁRIO ADM-ULTIMATE
 Nome do novo usuário:
 Nome nulo
 Usuário já existente!
-Senha Para o usuário
+Senha para o usuário
 Duração para o usuário
 Limite de conexão para o usuário
-usuário:
+Usuário:
 Senha:
-limite:
-validade:
-TODOS USUÁRIOS REGISTRADOS
+Limite:
+Validade:
+LISTA DE USUÁRIOS REGISTRADOS
 REMOVER USUÁRIOS
 Excluir 1 usuário
 Excluir todos os usuários
 Selecione o usuário ou digite o nome
 Nenhum usuário foi selecionado
-Usuário não existe
+Usuário inexistente!
 eliminado
 eliminar
 Entre, para voltar!
@@ -62,13 +62,13 @@ Qual é a nova senha para:
 Senha não alterada!
 Nova senha aplicada
 Nenhuma opção foi selecionada!
-utilizador
-password
-limite
-tempo
-?????
-ilimitado
-vencido
+Usuário
+Senha
+Limite
+Tempo
+??
+Ilimitado
+Expirado
 Você tem:
 Usuários no seu servidor
 dias
@@ -77,7 +77,7 @@ CONEXÃO
 TIME
 Essa ferramenta vai traduzir
 Todo o conteúdo do ADM-ULTIMATE
-Selecione o número do idioma ou use as iniciais do idioma
+Selecione o número do idioma ou use as iniciais do idioma.
 
 Traduzindo o sistema ...
 Digite um idioma:
@@ -111,7 +111,7 @@ ou, Insira um link de um backup
 Arquivo ou link
 Arquivo ou link inválido!
 Backup incompatível com o ADM
-A restauração ...
+Restauração ...
 Usuário não restaurado
 Esta ferramenta irá limpar caches
 e excluir arquivos temporários
@@ -122,7 +122,7 @@ que libera as portas UDP no servidor
 e assim permitir o serviço VOIP!
 Home
 BADVPN iniciado com sucesso
-Pare o serviço BADVPN ...
+Parando o serviço BADVPN ...
 BADVPN parou com sucesso
 Este script foi projetado
 Para melhorar a latência
@@ -200,7 +200,7 @@ Tempo on-line
 Nome da máquina
 Direção da máquina
 Versões do Kernel
-arquitectura
+Arquitetura
 analisar
 registro
 atualizado
@@ -287,7 +287,7 @@ USO APROXIMADO
 CONSUMO TOTAL
 USUÁRIOS
 MONITOR DE CONSUMO
-Verificação não ativada, OU Nenhuma informação existe
+A verificação não está ativada ou não há informações
 TELEGRAMA BOT
 SHADOWSOCKS / stunnel SSL
 SHADOWSOCKS E SSL
@@ -333,3 +333,4 @@ Seu IP:
 REINICIAR VPS (REINICIALIZAR)
 Você realmente quer reiniciar o VPS?
 Preparando para reiniciar o VPS.
+MENU DE INSTALAÇÃO

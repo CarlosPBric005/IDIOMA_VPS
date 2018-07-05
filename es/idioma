@@ -1,18 +1,18 @@
 ADM-MANAGER-ULTIMATE
 EN LÍNEA:
-VENCIDOS:
+EXPIRADOS:
 SU SISTEMA:
 ¡BIENVENIDO AL MENÚ!
 GESTIONAR USUARIOS
-GESTIONAR HERRAMIENTAS
+HERRAMIENTAS
 ACTUALIZAR
 REMOVER ADM-ULTIMATE
 OPCIÓN:
-[ACTIVO]
+[ACTIVADO]
 [DESACTIVADO]
 CAMBIAR COLORES DEL SCRIPT
 [VOLVER / SALIR]
-GERENCIADOR USUARIOS
+MENÚ USUARIOS
 CREAR USUARIOS
 REMOVER USUARIOS
 MODIFICAR USUARIOS
@@ -27,22 +27,22 @@ No se han seleccionado seis colores!
 CAMBIAR IDIOMA DEL SCRIPT
 CREADOR DE USUARIOS ADM-ULTIMATE
 Nombre del nuevo usuario:
-Nombre Nulo
+Nombre nulo
 Usuario ya existente!
-Contraseña Para el usuario
-Duración Para el Usuario
+Contraseña para el usuario
+Duración para el Usuario
 Límite de conexión para el usuario
-usuario:
-contraseña:
-límite:
-validez:
-TODOS LOS USUARIOS REGISTRADOS
+Usuario:
+Contraseña:
+Límite:
+Validez:
+LISTA DE USUARIOS REGISTRADOS
 REMOVER USUARIOS
 Eliminar 1 Usuario
 Eliminar todos los usuarios
 Seleccione el usuario o escriba el nombre
 Ningún usuario ha sido seleccionado
-Usuario No existe
+Usuario no existente!
 eliminado
 eliminar
 ¡Enter, para volver!
@@ -59,16 +59,16 @@ Límite cambiado
 Fecha no modificada
 Cambiado!
 ¿Cuál es la nueva contraseña para:
-Contraseña No cambiada!
+Contraseña no cambiada!
 Nueva contraseña aplicada
 No se ha seleccionado Ninguna opción!
-usuario
-contraseña
-límite
-tiempo
-?????
-ilimitado
-caducado
+Usuario
+Contraseña
+Límite
+Tiempo
+??
+Ilimitado
+Caducado
 Tú tienes:
 Usuarios en su servidor
 días
@@ -77,7 +77,7 @@ CONEXIÓN
 TIEMPO
 Ese Herramienta va a Traducir
 Todo el contenido de ADM-ULTIMATE
-Seleccione el número de idioma, o Utilice las iniciales del idioma
+Seleccione el número de idioma, o utilice las iniciales del idioma.
 
 Traduciendo el sistema...
 Introduzca un idioma:
@@ -111,7 +111,7 @@ o bien, Introduzca un vínculo de una copia de seguridad
 Archivo o enlace
 ¡Archivo o enlace no válido!
 Copia de seguridad incompatible con ADM
-La restauración ...
+Restauración ...
 Usuario no restaurado
 Esta Herramienta va a Limpiar Caches
 y eliminar los archivos temporales
@@ -122,8 +122,8 @@ que libera puertos UDP en el servidor
 y así permitir el servicio VOIP!
 Inicio
 BADVPN iniciado con éxito
-Parar servicio BADVPN ...
-BADVPN parado con éxito
+Deteniendo servicio BADVPN ...
+BADVPN detenido con éxito
 Este Script fue proyectado
 Para Mejorar La Latencia
 y velocidad del servidor!
@@ -200,7 +200,7 @@ Tiempo en línea
 Nombre de la máquina
 Dirección De la Maquina
 Versiones del kernel
-arquitectura
+Arquitectura
 analizar
 expediente
 actualizado
@@ -287,7 +287,7 @@ USO APROXIMADO
 CONSUMO TOTAL
 USUARIOS
 MONITOR DE CONSUMO
-Verificación No está Activada, O No existe Información
+Verificación no está activada, o no existe información
 BOT TELEGRAM
 SHADOWSOCKS / SSL stunnel
 SHADOWSOCKS Y SSL
@@ -329,7 +329,8 @@ AUTENTICACIÓN DEL PROXY SQUID DESACTIVADO.
 El usuario no puede ser nulo.
 ¿Desea habilitar la autenticación de proxy squid?
 ¿Desea desactivar la autenticación de proxy squid?
-Su IP:
+SU IP:
 REINICIAR VPS (REBOOT)
 ¿Realmente desea Reiniciar la VPS?
 Preparando para reiniciando VPS.
+MENÚ INSTALACIÓN
